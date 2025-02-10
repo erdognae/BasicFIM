@@ -1,0 +1,4 @@
+# Bu proje herhangi bir harici bağımlılık gerektirmez.
+# Python 3.6 veya üstü bir sürümle çalışır.
+
+python_version >= "3.6"
