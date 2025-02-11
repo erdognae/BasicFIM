@@ -10,8 +10,3 @@ Bu proje, belirli dosyaların bütünlüğünü izleyen bir **Dosya Bütünlüğ
 
 ## Gereksinimler
 - Python 3.6 veya üstü.
-
-## Kurulum
- Bu projeyi bilgisayarınıza klonlayın veya ZIP olarak indirip çıkarın
- Python ile çalıştırın.
-   
